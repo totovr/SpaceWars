@@ -17,11 +17,6 @@ I use [SemVer](http://semver.org/) for versioning.
 * [Github](https://github.com/totovr)
 * [Twitter](https://twitter.com/SpainDice)
 
-### Enrique Calderon Sastre:
-
-* [Github](https://github.com/ecaldrn)
-* [Twitter](https://twitter.com/ecaldrn1)
-
 ## License
 
 This project is licensed under The MIT License (MIT) - see the [LICENSE.md](https://github.com/totovr/Python/blob/master/LICENSE.md) file for details
